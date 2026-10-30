@@ -1,0 +1,6 @@
+{
+  "name": "Open Camera Ultra",
+  "description": "Custom Open Camera optimized for Xiaomi 12s Ultra: uncropped 4:3 video dimensions (3072x4096, 2160x2880, 1440x1920), 40-100 Mbps bitrates, HLG 10-bit and HEVC 8-bit, full sensor uncropped FOV, and low-light enhancement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
